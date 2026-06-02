@@ -1,6 +1,6 @@
 #include "input.h"
 #include <SDL2/SDL.h>
-#include "mmu.h"
+#include "instructions.h"
 #include "gameboy.h"
 
 void Input::handle_inputs(CPU *cpu)

@@ -3,7 +3,7 @@
 #include <stack>
 #include <stdint.h>
 #include <vector>
-#include "mmu.h"
+#include "instructions.h"
 #include <cstring>
 using namespace std;
 

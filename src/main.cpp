@@ -8,7 +8,7 @@
 
 #include "gameboy.h"
 #include "graphics.h"
-#include "mmu.h"
+#include "instructions.h"
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_rect.h>
 #include "input.h"

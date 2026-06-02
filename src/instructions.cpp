@@ -1,7 +1,7 @@
 #include <math.h>
 #include <stdint.h>
 #include <vector>
-#include "mmu.h"
+#include "instructions.h"
 #include <iostream>
 using namespace std;
 // These functions set the individual bits on the l register

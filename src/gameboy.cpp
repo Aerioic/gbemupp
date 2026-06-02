@@ -6,7 +6,7 @@
 #include <stdexcept>
 
 #include "gameboy.h"
-#include "mmu.h"
+#include "instructions.h"
 #include "input.h"
 using namespace std;
 
